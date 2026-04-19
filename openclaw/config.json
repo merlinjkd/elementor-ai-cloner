@@ -1,0 +1,12 @@
+{
+  "skills": [
+    {
+      "name": "elementor_section_clone",
+      "prompt": "Convert layout + screenshot into Elementor JSON with correct structure, styles, and components."
+    },
+    {
+      "name": "style_system_builder",
+      "prompt": "Extract design system (colors, fonts, spacing) from webpage styles."
+    }
+  ]
+}

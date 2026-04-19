@@ -1,0 +1,9 @@
+{
+  "name": "elementor-ai-cloner",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "playwright": "^1.40.0",
+    "node-fetch": "^3.3.2"
+  }
+}
