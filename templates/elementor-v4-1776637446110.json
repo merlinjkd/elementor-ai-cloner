@@ -1,0 +1,939 @@
+{
+  "version": "0.4",
+  "title": "Cloned: www.wpassist.ca",
+  "type": "page",
+  "page_settings": [],
+  "content": [
+    {
+      "id": "mo6c2axp-1",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "50",
+          "right": "50",
+          "bottom": "50",
+          "left": "50"
+        }
+      },
+      "elements": [
+        {
+          "id": "mo6c2axp-2",
+          "elType": "widget",
+          "widgetType": "image",
+          "settings": {
+            "image": {
+              "url": "https://www.wpassist.ca/wp-content/uploads/2025/12/header-home-compress.webp",
+              "alt": "header home compress"
+            },
+            "image_size": "large",
+            "align": "center",
+            "width": {
+              "unit": "px",
+              "size": 800
+            }
+          }
+        },
+        {
+          "id": "mo6c2axp-3",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "Affordable WordPress Maintenance Services For Your Business",
+            "header_size": "h1",
+            "align": "left",
+            "title_color": "#675eac",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 56
+            }
+          }
+        },
+        {
+          "id": "mo6c2axp-4",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "Are you in need of WordPress Support? Delegate the maintenance of your website to our WordPress experts and focus your time and energy on growing your business. Investing in a WordPress maintenance service is the best way to ensure your website always performs at its best.",
+            "align": "left",
+            "text_color": "#555555",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 18
+            }
+          }
+        },
+        {
+          "id": "mo6c2axp-5",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "Get Started",
+            "link": {
+              "url": "https://www.wpassist.ca/#intro",
+              "is_external": true,
+              "target": "_blank"
+            },
+            "align": "center",
+            "button_text_color": "#ffffff",
+            "background_color": "#fe4c1c",
+            "border_radius": {
+              "unit": "px",
+              "size": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "mo6c2axp-6",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "50",
+          "right": "50",
+          "bottom": "50",
+          "left": "50"
+        }
+      },
+      "elements": [
+        {
+          "id": "mo6c2axp-7",
+          "elType": "widget",
+          "widgetType": "image",
+          "settings": {
+            "image": {
+              "url": "https://www.wpassist.ca/wp-content/uploads/2025/12/header-home-compress.webp",
+              "alt": "header home compress"
+            },
+            "image_size": "large",
+            "align": "center",
+            "width": {
+              "unit": "px",
+              "size": 800
+            }
+          }
+        },
+        {
+          "id": "mo6c2axp-8",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "Affordable WordPress Maintenance Services For Your Business",
+            "header_size": "h1",
+            "align": "left",
+            "title_color": "#675eac",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 56
+            }
+          }
+        },
+        {
+          "id": "mo6c2axp-9",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "Are you in need of WordPress Support? Delegate the maintenance of your website to our WordPress experts and focus your time and energy on growing your business. Investing in a WordPress maintenance service is the best way to ensure your website always performs at its best.",
+            "align": "left",
+            "text_color": "#555555",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 18
+            }
+          }
+        },
+        {
+          "id": "mo6c2axp-a",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "Get Started",
+            "link": {
+              "url": "https://www.wpassist.ca/#intro",
+              "is_external": true,
+              "target": "_blank"
+            },
+            "align": "center",
+            "button_text_color": "#ffffff",
+            "background_color": "#fe4c1c",
+            "border_radius": {
+              "unit": "px",
+              "size": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "mo6c2axp-b",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "50",
+          "right": "50",
+          "bottom": "100",
+          "left": "50"
+        }
+      },
+      "elements": [
+        {
+          "id": "mo6c2axp-c",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "WordPress Support & Maintenance",
+            "header_size": "h2",
+            "align": "center",
+            "title_color": "#675eac",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 48
+            }
+          }
+        },
+        {
+          "id": "mo6c2axp-d",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "Website Edits",
+            "header_size": "h3",
+            "align": "center",
+            "title_color": "#272063",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 28
+            }
+          }
+        },
+        {
+          "id": "mo6c2axp-e",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "Speed Optimization",
+            "header_size": "h3",
+            "align": "center",
+            "title_color": "#272063",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 28
+            }
+          }
+        },
+        {
+          "id": "mo6c2axp-f",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "Security Lock Down",
+            "header_size": "h3",
+            "align": "center",
+            "title_color": "#272063",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 28
+            }
+          }
+        },
+        {
+          "id": "mo6c2axp-g",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "WordPress Updates",
+            "header_size": "h3",
+            "align": "center",
+            "title_color": "#272063",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 28
+            }
+          }
+        },
+        {
+          "id": "mo6c2axp-h",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "Daily Backups",
+            "header_size": "h3",
+            "align": "center",
+            "title_color": "#272063",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 28
+            }
+          }
+        },
+        {
+          "id": "mo6c2axp-i",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "24/7 Uptime Monitoring",
+            "header_size": "h3",
+            "align": "center",
+            "title_color": "#272063",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 28
+            }
+          }
+        },
+        {
+          "id": "mo6c2axp-j",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "Making changes to your site doesn't have to be frustrating. Focus your time on running your business and leave the website changes to us.",
+            "align": "center",
+            "text_color": "#555555",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 15
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-k",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "If your website doesn't load quickly, your audience is likely to navigate away. Loading speed must be one of the top priorities that you focus on.",
+            "align": "center",
+            "text_color": "#555555",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 15
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-l",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "We implement WordPress security best practices to help prevent any loss of business due to malicious activity and data breaches.",
+            "align": "center",
+            "text_color": "#555555",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 15
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-m",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "WordPress continually introduces updates to boost its security, and foregoing these can potentially open your website up to cyber attacks.",
+            "align": "center",
+            "text_color": "#555555",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 15
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-n",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "Backup your website to the cloud on a daily basis for added security and reliability. Easily recover from any incident with one-click restores.",
+            "align": "center",
+            "text_color": "#555555",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 15
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-o",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "Downtime can be costly for any online business. 24/7 website monitoring helps to quickly resolve any lapses in your site's uptime.",
+            "align": "center",
+            "text_color": "#555555",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 15
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-p",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "Website Edits",
+            "link": {
+              "url": "https://www.wpassist.ca/managed-wordpress-services/unlimited-website-edits/",
+              "is_external": true,
+              "target": "_blank"
+            },
+            "align": "center",
+            "button_text_color": "#272063",
+            "border_radius": {
+              "unit": "px",
+              "size": 4
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-q",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "Speed Optimization",
+            "link": {
+              "url": "https://www.wpassist.ca/managed-wordpress-services/page-speed-optimization/",
+              "is_external": true,
+              "target": "_blank"
+            },
+            "align": "center",
+            "button_text_color": "#272063",
+            "border_radius": {
+              "unit": "px",
+              "size": 4
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-r",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "Security Lock Down",
+            "link": {
+              "url": "https://www.wpassist.ca/managed-wordpress-services/security-lockdown/",
+              "is_external": true,
+              "target": "_blank"
+            },
+            "align": "center",
+            "button_text_color": "#272063",
+            "border_radius": {
+              "unit": "px",
+              "size": 4
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-s",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "WordPress Updates",
+            "link": {
+              "url": "https://www.wpassist.ca/managed-wordpress-services/managed-wordpress-updates/",
+              "is_external": true,
+              "target": "_blank"
+            },
+            "align": "center",
+            "button_text_color": "#272063",
+            "border_radius": {
+              "unit": "px",
+              "size": 4
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-t",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "Daily Backups",
+            "link": {
+              "url": "https://www.wpassist.ca/managed-wordpress-services/cloud-backups/",
+              "is_external": true,
+              "target": "_blank"
+            },
+            "align": "center",
+            "button_text_color": "#272063",
+            "border_radius": {
+              "unit": "px",
+              "size": 4
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-u",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "24/7 Uptime Monitoring",
+            "link": {
+              "url": "https://www.wpassist.ca/managed-wordpress-services/uptime-monitoring/",
+              "is_external": true,
+              "target": "_blank"
+            },
+            "align": "center",
+            "button_text_color": "#272063",
+            "border_radius": {
+              "unit": "px",
+              "size": 4
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-v",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "View All Services",
+            "link": {
+              "url": "https://www.wpassist.ca/managed-wordpress-services/",
+              "is_external": true,
+              "target": "_blank"
+            },
+            "align": "center",
+            "button_text_color": "#ffffff",
+            "background_color": "#fe4c1c",
+            "border_radius": {
+              "unit": "px",
+              "size": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "mo6c2axq-w",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "50",
+          "right": "50",
+          "bottom": "50",
+          "left": "50"
+        }
+      },
+      "elements": [
+        {
+          "id": "mo6c2axq-x",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "WordPress Support & Maintenance",
+            "header_size": "h2",
+            "align": "center",
+            "title_color": "#675eac",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 48
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "mo6c2axq-y",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "50",
+          "right": "50",
+          "bottom": "50",
+          "left": "50"
+        }
+      },
+      "elements": [
+        {
+          "id": "mo6c2axq-z",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "WordPress Support & Maintenance",
+            "header_size": "h2",
+            "align": "center",
+            "title_color": "#675eac",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 48
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "mo6c2axq-10",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "50",
+          "right": "50",
+          "bottom": "50",
+          "left": "50"
+        }
+      },
+      "elements": [
+        {
+          "id": "mo6c2axq-11",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "Website Edits",
+            "header_size": "h3",
+            "align": "center",
+            "title_color": "#272063",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 28
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-12",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "Speed Optimization",
+            "header_size": "h3",
+            "align": "center",
+            "title_color": "#272063",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 28
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-13",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "Security Lock Down",
+            "header_size": "h3",
+            "align": "center",
+            "title_color": "#272063",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 28
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-14",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "WordPress Updates",
+            "header_size": "h3",
+            "align": "center",
+            "title_color": "#272063",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 28
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-15",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "Daily Backups",
+            "header_size": "h3",
+            "align": "center",
+            "title_color": "#272063",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 28
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-16",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "24/7 Uptime Monitoring",
+            "header_size": "h3",
+            "align": "center",
+            "title_color": "#272063",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 28
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-17",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "Making changes to your site doesn't have to be frustrating. Focus your time on running your business and leave the website changes to us.",
+            "align": "center",
+            "text_color": "#555555",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 15
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-18",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "If your website doesn't load quickly, your audience is likely to navigate away. Loading speed must be one of the top priorities that you focus on.",
+            "align": "center",
+            "text_color": "#555555",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 15
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-19",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "We implement WordPress security best practices to help prevent any loss of business due to malicious activity and data breaches.",
+            "align": "center",
+            "text_color": "#555555",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 15
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-1a",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "WordPress continually introduces updates to boost its security, and foregoing these can potentially open your website up to cyber attacks.",
+            "align": "center",
+            "text_color": "#555555",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 15
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-1b",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "Backup your website to the cloud on a daily basis for added security and reliability. Easily recover from any incident with one-click restores.",
+            "align": "center",
+            "text_color": "#555555",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 15
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-1c",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "Downtime can be costly for any online business. 24/7 website monitoring helps to quickly resolve any lapses in your site's uptime.",
+            "align": "center",
+            "text_color": "#555555",
+            "typography_typography": "custom",
+            "typography_font_family": "Open Sans",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 15
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-1d",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "Website Edits",
+            "link": {
+              "url": "https://www.wpassist.ca/managed-wordpress-services/unlimited-website-edits/",
+              "is_external": true,
+              "target": "_blank"
+            },
+            "align": "center",
+            "button_text_color": "#272063",
+            "border_radius": {
+              "unit": "px",
+              "size": 4
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-1e",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "Speed Optimization",
+            "link": {
+              "url": "https://www.wpassist.ca/managed-wordpress-services/page-speed-optimization/",
+              "is_external": true,
+              "target": "_blank"
+            },
+            "align": "center",
+            "button_text_color": "#272063",
+            "border_radius": {
+              "unit": "px",
+              "size": 4
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-1f",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "Security Lock Down",
+            "link": {
+              "url": "https://www.wpassist.ca/managed-wordpress-services/security-lockdown/",
+              "is_external": true,
+              "target": "_blank"
+            },
+            "align": "center",
+            "button_text_color": "#272063",
+            "border_radius": {
+              "unit": "px",
+              "size": 4
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-1g",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "WordPress Updates",
+            "link": {
+              "url": "https://www.wpassist.ca/managed-wordpress-services/managed-wordpress-updates/",
+              "is_external": true,
+              "target": "_blank"
+            },
+            "align": "center",
+            "button_text_color": "#272063",
+            "border_radius": {
+              "unit": "px",
+              "size": 4
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-1h",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "Daily Backups",
+            "link": {
+              "url": "https://www.wpassist.ca/managed-wordpress-services/cloud-backups/",
+              "is_external": true,
+              "target": "_blank"
+            },
+            "align": "center",
+            "button_text_color": "#272063",
+            "border_radius": {
+              "unit": "px",
+              "size": 4
+            }
+          }
+        },
+        {
+          "id": "mo6c2axq-1i",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "24/7 Uptime Monitoring",
+            "link": {
+              "url": "https://www.wpassist.ca/managed-wordpress-services/uptime-monitoring/",
+              "is_external": true,
+              "target": "_blank"
+            },
+            "align": "center",
+            "button_text_color": "#272063",
+            "border_radius": {
+              "unit": "px",
+              "size": 4
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
