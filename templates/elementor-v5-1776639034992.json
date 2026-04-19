@@ -1,0 +1,97 @@
+{
+  "version": "0.4",
+  "title": "Cloned: www.wpassist.ca",
+  "type": "page",
+  "page_settings": [],
+  "content": [
+    {
+      "id": "mo6d0cxc-4",
+      "elType": "section",
+      "settings": [],
+      "elements": [
+        {
+          "id": "mo6d0cxc-5",
+          "elType": "column",
+          "settings": [],
+          "elements": [
+            {
+              "id": "mo6d0cxc-1",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "https://www.wpassist.ca/wp-content/uploads/2025/12/header-home-compress.webp",
+                  "alt": "header home compress"
+                },
+                "image_size": "large"
+              }
+            },
+            {
+              "id": "mo6d0cxc-2",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Affordable WordPress Maintenance Services For Your Business",
+                "header_size": "h1"
+              }
+            },
+            {
+              "id": "mo6d0cxc-3",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Are you in need of WordPress Support? Delegate the maintenance of your website to our WordPress experts and focus your time and energy on growing your business. Investing in a WordPress maintenance service is the best way to ensure your website always performs at its best.</p>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mo6d0cxc-7",
+      "elType": "section",
+      "settings": [],
+      "elements": [
+        {
+          "id": "mo6d0cxc-8",
+          "elType": "column",
+          "settings": [],
+          "elements": [
+            {
+              "id": "mo6d0cxc-6",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "WordPress Support & Maintenance",
+                "header_size": "h2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mo6d0cxc-a",
+      "elType": "section",
+      "settings": [],
+      "elements": [
+        {
+          "id": "mo6d0cxc-b",
+          "elType": "column",
+          "settings": [],
+          "elements": [
+            {
+              "id": "mo6d0cxc-9",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "WordPress Support & Maintenance",
+                "header_size": "h2"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

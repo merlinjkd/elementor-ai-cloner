@@ -1,0 +1,25 @@
+{
+  "version": "0.4",
+  "title": "Simple Test",
+  "type": "page",
+  "page_settings": [],
+  "content": [
+    {
+      "id": "test-section-1",
+      "elType": "section",
+      "isInner": false,
+      "settings": [],
+      "elements": [
+        {
+          "id": "test-heading-1",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "Test Heading",
+            "align": "center"
+          }
+        }
+      ]
+    }
+  ]
+}

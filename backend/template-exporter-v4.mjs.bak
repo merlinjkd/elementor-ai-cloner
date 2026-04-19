@@ -259,9 +259,7 @@ function createTemplate(data, url) {
       }
       
       if (widget) {
-        // Widgets must be in columns
-            const columnEl = { id: generateId(), elType: "column", settings: [], elements: [widget] };
-            sectionEl.elements.push(columnEl);
+        sectionEl.elements.push(widget);
       }
     });
     
